@@ -16,4 +16,4 @@ this is the [notebook](https://github.com/Carjes23/technical-discussion/blob/mai
 
 ### Image 
 
-https://github.com/Carjes23/technical-discussion/issues/1#issue-1336484346
+![image](https://user-images.githubusercontent.com/86796298/184241538-6d036928-1c1d-44b9-ab4b-7df4d5c05062.png)
